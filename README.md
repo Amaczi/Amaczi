@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Amaczi
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning HTML, CSS, JS, REACT
