@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Amaczi
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML, CSS, JS, REACT
+- 🌱 I’m working with: React, Next, JavaScript, TypeScript, Tailwind, Rest API, GraphQL, Styled Components, SASS
